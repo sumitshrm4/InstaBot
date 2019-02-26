@@ -1,0 +1,10 @@
+E:\CodeAThone\CodeAThoneInstaBot\CodeAThoneInstaBot\bin\Debug\CodeAThoneInstaBot.exe.config
+E:\CodeAThone\CodeAThoneInstaBot\CodeAThoneInstaBot\bin\Debug\CodeAThoneInstaBot.exe
+E:\CodeAThone\CodeAThoneInstaBot\CodeAThoneInstaBot\bin\Debug\CodeAThoneInstaBot.pdb
+E:\CodeAThone\CodeAThoneInstaBot\CodeAThoneInstaBot\bin\Debug\InstaSharper.dll
+E:\CodeAThone\CodeAThoneInstaBot\CodeAThoneInstaBot\bin\Debug\Newtonsoft.Json.dll
+E:\CodeAThone\CodeAThoneInstaBot\CodeAThoneInstaBot\bin\Debug\Newtonsoft.Json.xml
+E:\CodeAThone\CodeAThoneInstaBot\CodeAThoneInstaBot\obj\Debug\CodeAThoneInstaBot.csproj.CoreCompileInputs.cache
+E:\CodeAThone\CodeAThoneInstaBot\CodeAThoneInstaBot\obj\Debug\CodeAThoneInstaBot.csproj.CopyComplete
+E:\CodeAThone\CodeAThoneInstaBot\CodeAThoneInstaBot\obj\Debug\CodeAThoneInstaBot.exe
+E:\CodeAThone\CodeAThoneInstaBot\CodeAThoneInstaBot\obj\Debug\CodeAThoneInstaBot.pdb
