@@ -10,5 +10,5 @@ It also have a feature of uploading post on your page from any other page.
 
 Requirements to use Bot are - 
 1. you must have a valid user name and password for your account on instagram
-2. you must have .net freamwork 4.0 or greater
+2. you must have .net framework 4.0 or greater
 3. for uploading pictures from another page, the page either should be public or should be in your follower/following list.
